@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'am Fatih <br>Jr.Backend Dev.<br><br>🌱 I’m currently learning Node.js,Express.Js
+Hi I'am Fatih <br>Jr.Backend Dev.<br><br>🌱 I’m currently learning Node.js,Express.Js<br><br>
 📫 How to reach me  fatih-koc_@hotmail.com :)
 
 
