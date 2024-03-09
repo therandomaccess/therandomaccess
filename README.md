@@ -23,7 +23,6 @@
 <br clear="both">
 
 <h1 align="center">Hey There 👋</h1>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
