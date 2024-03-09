@@ -13,7 +13,7 @@
   <a href="mathers_1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
   </a>
-  <a href="fatih-koc_@hotmail.com" target="_blank">
+  <a href="mailto:fatih-koc_@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="60" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
