@@ -96,9 +96,9 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-https://github-readme-stats.vercel.app/api?username=therandomaccess&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=therandomaccess&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=therandomaccess&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p><img src="https://github-readme-stats.vercel.app/api?username=therandomaccess&amp;theme=midnight-purple&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" alt=""><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=therandomaccess&amp;theme=midnight-purple&amp;hide_border=false" alt=""><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therandomaccess&amp;theme=midnight-purple&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" alt=""></p>
 
 
 ### ✍️ Random Dev Quote
