@@ -83,6 +83,21 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+<p><img src="https://github-readme-stats.vercel.app/api?username=therandomaccess&amp;theme=midnight-purple&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true" alt=""><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=therandomaccess&amp;theme=midnight-purple&amp;hide_border=false" alt=""><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therandomaccess&amp;theme=midnight-purple&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" alt=""></p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=therandomaccess&icon=2&color=6)](https://visitcount.itsvg.in)
+
+###
 
 ###
 
