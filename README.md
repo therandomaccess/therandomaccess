@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/fatih-ko%C3%A7-85b0071b3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mathers_1" target="_blank">
+  <a href="https://discord.com/users/418772199869251586" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:fatih-koc_@hotmail.com" target="_blank">
