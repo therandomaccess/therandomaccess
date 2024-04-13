@@ -100,7 +100,8 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://preview.redd.it/vsi6ms2y0dsx.jpg?width=1080&crop=smart&auto=webp&s=c58cea326d50a018d1afa9f8a48b462102991ed1"  />
+  <iframe src="https://giphy.com/embed/MZLMKmuu4An86WQwXn" width="480" height="281" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theweeknd-the-weeknd-i-feel-it-coming-MZLMKmuu4An86WQwXn">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/MZLMKmuu4An86WQwXn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/theweeknd-the-weeknd-i-feel-it-coming-MZLMKmuu4An86WQwXn">via GIPHY</a></p>
 </div>
 
 ###
