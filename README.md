@@ -100,8 +100,9 @@
 ###
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/MZLMKmuu4An86WQwXn" width="480" height="281" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theweeknd-the-weeknd-i-feel-it-coming-MZLMKmuu4An86WQwXn">via GIPHY</a></p>
-  <div style="width:100%;height:0;padding-bottom:58%;position:relative;"><iframe src="https://giphy.com/embed/MZLMKmuu4An86WQwXn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/theweeknd-the-weeknd-i-feel-it-coming-MZLMKmuu4An86WQwXn">via GIPHY</a></p>
+<img width="650"
+  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VocXM1dGFkZWV5bm01cGQwcWx3NXJpY3c3YzZlZjRpamk5ZW5xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MZLMKmuu4An86WQwXn/giphy.gif"/>
+ 
 </div>
 
 ###
